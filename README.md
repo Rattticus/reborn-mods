@@ -11,5 +11,5 @@ Mac: /private/var/folders/nb/k4cj18v52r7cs1c6qf5fm_rm0000gn/T/Roblox/http
 
 ## [mute-exploiter-sounds.zip](https://github.com/Rattticus/reborn-mods/blob/main/mods/mute-exploiter-sounds.zip)
 ### Forcibly mutes sounds that are commonly spammed by exploiters.
-Replaces all vent sounds, the Bloxy Cola sounds, the Cake 'yummy!' sound, and all of the "peep" and "honk" sounds with a faint click, play with ambience volume at 0 or you'll hear vents clicking at you. 
-
+Replaces all vent sounds, the Bloxy Cola sounds, the Cake 'yummy!' sound, and all of the "peep" and "honk" sounds with a faint click, **play with ambience volume at 0 or you'll hear vents clicking at you. 
+**
