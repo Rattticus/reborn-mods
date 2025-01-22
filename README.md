@@ -1,4 +1,3 @@
-# reborn-mods
 # Cache-hacked asset replacements for Parkour Reborn
 
 ### files are in /mods/, simply drag and drop the files inside of each zip into your respective cache folder:
