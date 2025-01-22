@@ -1,9 +1,9 @@
 # Cache-hacked asset replacements for Parkour Reborn
 
 ### Simply drag and drop the files inside of each zip into your respective cache folder:
-Windows: 
+Windows: %temp%\Roblox\http
 
-Mac: /private/var/folders/nb/k4cj18v52r7cs1c6qf5fm_rm0000gn/T/Roblox/http
+Mac: 
 
 ## [groan-tube.zip](https://github.com/Rattticus/reborn-mods/blob/main/mods/groan-tube.zip)
 ### Replaces the binocular equip/dequip sounds with groan tube sounds.
